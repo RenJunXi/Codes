@@ -15,14 +15,14 @@ void add(int x,int y){
 
 int depth[500001],fa[500001][22],lg[500001];
 
-void dfs(int now,int father){
+void run(int now,int father){
     fa[now][0] = father;
     depth[now] = depth[father] + 1;
     for (int i = 1;i <= lg[depth[now]];++i)
         fa[now][i] = fa[fa[now][i - 1]][i - 1];
     for (int i = head[now];i;i = trees[i].nex)
         if (trees[i].t != father)
-            dfs(trees[i].t,now);
+            run(trees[i].t,now);
 }
 
 int LCA(int x,int y){
@@ -49,7 +49,7 @@ int main(){
     }
     for (int i = 1;i <= N;++i)
         lg[i] = lg[i - 1] + (1 << lg[i - 1] == i);
-    dfs(S,0);
+    run(S,0);
     for (int i = 1;i <= M;++i){
         int x,y;
         cin >> x >> y;
