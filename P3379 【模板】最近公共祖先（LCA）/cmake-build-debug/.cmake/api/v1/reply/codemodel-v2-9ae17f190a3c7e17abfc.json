@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.19"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "P3379_LCA",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "P3379_LCA::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-P3379_LCA-Debug-4040193f584fc81de1e1.json",
+					"name" : "P3379_LCA",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/alan/Documents/Code/P3379 \u3010\u6a21\u677f\u3011\u6700\u8fd1\u516c\u5171\u7956\u5148\uff08LCA\uff09/cmake-build-debug",
+		"source" : "/Users/alan/Documents/Code/P3379 \u3010\u6a21\u677f\u3011\u6700\u8fd1\u516c\u5171\u7956\u5148\uff08LCA\uff09"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

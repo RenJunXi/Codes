@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/P3379_LCA.dir/main.cpp.o"
+  "CMakeFiles/P3379_LCA.dir/main.cpp.o.d"
   "P3379_LCA"
   "P3379_LCA.pdb"
 )
