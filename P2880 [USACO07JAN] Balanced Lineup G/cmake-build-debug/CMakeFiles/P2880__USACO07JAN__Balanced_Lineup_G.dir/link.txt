@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++ -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/P2880__USACO07JAN__Balanced_Lineup_G.dir/main.cpp.o -o P2880__USACO07JAN__Balanced_Lineup_G 

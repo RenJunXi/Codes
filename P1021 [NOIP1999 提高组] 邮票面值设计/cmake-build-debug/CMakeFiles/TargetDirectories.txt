@@ -1,0 +1,3 @@
+/Users/alan/Documents/Code/P1021 [NOIP1999 提高组] 邮票面值设计/cmake-build-debug/CMakeFiles/P1021__NOIP1999___.dir
+/Users/alan/Documents/Code/P1021 [NOIP1999 提高组] 邮票面值设计/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/alan/Documents/Code/P1021 [NOIP1999 提高组] 邮票面值设计/cmake-build-debug/CMakeFiles/rebuild_cache.dir

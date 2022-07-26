@@ -1,0 +1,3 @@
+/Users/alan/Documents/Code/P1827 [USACO3.4] 美国血统 American Heritage/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/alan/Documents/Code/P1827 [USACO3.4] 美国血统 American Heritage/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/alan/Documents/Code/P1827 [USACO3.4] 美国血统 American Heritage/cmake-build-debug/CMakeFiles/P1827__USACO3_4___American_Heritage.dir

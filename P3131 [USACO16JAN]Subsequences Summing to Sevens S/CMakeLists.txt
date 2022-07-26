@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.20)
+project(P3131__USACO16JAN_Subsequences_Summing_to_Sevens_S)
+
+set(CMAKE_CXX_STANDARD 20)
+
+add_executable(P3131__USACO16JAN_Subsequences_Summing_to_Sevens_S main.cpp)

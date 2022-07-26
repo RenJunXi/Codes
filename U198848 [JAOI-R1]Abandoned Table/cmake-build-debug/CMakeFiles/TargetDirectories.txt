@@ -1,0 +1,3 @@
+/Users/alan/Documents/U198848 [JAOI-R1]Abandoned Table/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/alan/Documents/U198848 [JAOI-R1]Abandoned Table/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/alan/Documents/U198848 [JAOI-R1]Abandoned Table/cmake-build-debug/CMakeFiles/U198848__JAOI_R1_Abandoned_Table.dir

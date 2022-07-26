@@ -1,0 +1,3 @@
+/Users/alan/Documents/P6056 [加油武汉]SIR 模型/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/alan/Documents/P6056 [加油武汉]SIR 模型/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/alan/Documents/P6056 [加油武汉]SIR 模型/cmake-build-debug/CMakeFiles/P6056___SIR_.dir

@@ -1,0 +1,28 @@
+from turtle import *
+clear()
+a=[2,0,3,0,4,8,1,5]
+pen2=Pen()
+pen1=Pen()
+pen1.up()
+pen2.up()
+pen1.goto(-100,-412)
+pen2.goto(-100,-412)
+pen2.color("blue")
+pen1.color("blue")
+pen2.left(90)
+for x in range(1,10):
+  pen2.fd(90)
+  pen2.write(x)
+for x in range(1,10):
+  pen1.fd(90)
+  pen1.write(x)
+up()
+goto(-100,-412)
+down()
+goto(0+2*-412+45,0)
+goto(0+0,-412+3*45)
+goto(0+3*45,-412+0)
+goto(0+0,-412+4*45)
+goto(0+4*45,-412+8*45)
+goto(0+8*90,-412+90)
+goto(0+1*90,-412+5*90)

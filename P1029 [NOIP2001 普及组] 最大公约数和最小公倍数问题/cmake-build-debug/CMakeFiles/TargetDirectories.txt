@@ -1,0 +1,3 @@
+/Users/alan/Documents/P1029 [NOIP2001 普及组] 最大公约数和最小公倍数问题/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/alan/Documents/P1029 [NOIP2001 普及组] 最大公约数和最小公倍数问题/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/alan/Documents/P1029 [NOIP2001 普及组] 最大公约数和最小公倍数问题/cmake-build-debug/CMakeFiles/P1029__NOIP2001___.dir

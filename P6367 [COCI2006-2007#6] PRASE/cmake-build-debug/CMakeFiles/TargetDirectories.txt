@@ -1,0 +1,3 @@
+/Users/alan/Documents/Code/P6367 [COCI2006-2007#6] PRASE/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/alan/Documents/Code/P6367 [COCI2006-2007#6] PRASE/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/alan/Documents/Code/P6367 [COCI2006-2007#6] PRASE/cmake-build-debug/CMakeFiles/P6367__COCI2006_2007_6__PRASE.dir

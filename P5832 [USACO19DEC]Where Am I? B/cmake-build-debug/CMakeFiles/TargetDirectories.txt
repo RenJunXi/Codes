@@ -1,0 +1,3 @@
+/Users/alan/Documents/P5832 [USACO19DEC]Where Am I? B/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/alan/Documents/P5832 [USACO19DEC]Where Am I? B/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/alan/Documents/P5832 [USACO19DEC]Where Am I? B/cmake-build-debug/CMakeFiles/P5832__USACO19DEC_Where_Am_I__B.dir

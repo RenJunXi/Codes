@@ -1,0 +1,3 @@
+/Users/alan/Documents/Code/[USACO1.5][IOI1994]数字三角形 Number Triangles/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/alan/Documents/Code/[USACO1.5][IOI1994]数字三角形 Number Triangles/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/alan/Documents/Code/[USACO1.5][IOI1994]数字三角形 Number Triangles/cmake-build-debug/CMakeFiles/_USACO1_5__IOI1994__Number_Triangles.dir

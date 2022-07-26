@@ -1,0 +1,3 @@
+/Users/alan/Documents/Code/NOMURA Programming Contest 2022（AtCoder Beginner Contest 253）/A - Median?/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/alan/Documents/Code/NOMURA Programming Contest 2022（AtCoder Beginner Contest 253）/A - Median?/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/alan/Documents/Code/NOMURA Programming Contest 2022（AtCoder Beginner Contest 253）/A - Median?/cmake-build-debug/CMakeFiles/A___Median_.dir

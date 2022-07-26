@@ -1,0 +1,3 @@
+/Users/alan/Documents/P1060 [NOIP2006 普及组] 开心的金明 /cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/alan/Documents/P1060 [NOIP2006 普及组] 开心的金明 /cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/alan/Documents/P1060 [NOIP2006 普及组] 开心的金明 /cmake-build-debug/CMakeFiles/P1060__NOIP2006____.dir

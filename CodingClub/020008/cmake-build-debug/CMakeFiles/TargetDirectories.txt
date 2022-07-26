@@ -1,0 +1,3 @@
+/Users/alan/Documents/Code/CodingClub/020008/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/alan/Documents/Code/CodingClub/020008/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/alan/Documents/Code/CodingClub/020008/cmake-build-debug/CMakeFiles/020008.dir

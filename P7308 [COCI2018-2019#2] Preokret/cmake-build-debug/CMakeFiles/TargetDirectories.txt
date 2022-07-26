@@ -1,0 +1,3 @@
+/Users/alan/Documents/P7308 [COCI2018-2019#2] Preokret/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/alan/Documents/P7308 [COCI2018-2019#2] Preokret/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/alan/Documents/P7308 [COCI2018-2019#2] Preokret/cmake-build-debug/CMakeFiles/P7308__COCI2018_2019_2__Preokret.dir

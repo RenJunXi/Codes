@@ -1,0 +1,3 @@
+/Users/alan/Documents/P1018 [NOIP2000 提高组] 乘积最大/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/alan/Documents/P1018 [NOIP2000 提高组] 乘积最大/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/alan/Documents/P1018 [NOIP2000 提高组] 乘积最大/cmake-build-debug/CMakeFiles/P1018__NOIP2000___.dir

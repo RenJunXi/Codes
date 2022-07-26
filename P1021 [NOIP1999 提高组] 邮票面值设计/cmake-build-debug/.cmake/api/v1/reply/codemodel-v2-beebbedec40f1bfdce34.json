@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "P1021__NOIP1999___",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "P1021__NOIP1999___::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-P1021__NOIP1999___-Debug-475f2733be0e0226b8b9.json",
+					"name" : "P1021__NOIP1999___",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/alan/Documents/Code/P1021 [NOIP1999 \u63d0\u9ad8\u7ec4] \u90ae\u7968\u9762\u503c\u8bbe\u8ba1/cmake-build-debug",
+		"source" : "/Users/alan/Documents/Code/P1021 [NOIP1999 \u63d0\u9ad8\u7ec4] \u90ae\u7968\u9762\u503c\u8bbe\u8ba1"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

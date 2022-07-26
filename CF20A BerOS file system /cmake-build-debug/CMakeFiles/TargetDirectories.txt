@@ -1,0 +1,3 @@
+/Users/alan/Documents/CF20A BerOS file system /cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/alan/Documents/CF20A BerOS file system /cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/alan/Documents/CF20A BerOS file system /cmake-build-debug/CMakeFiles/CF20A_BerOS_file_system_.dir

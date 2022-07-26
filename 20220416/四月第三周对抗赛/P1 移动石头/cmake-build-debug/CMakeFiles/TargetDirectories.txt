@@ -1,0 +1,3 @@
+/Users/alan/Documents/Code/20220416/四月第三周对抗赛/P1 移动石头/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/alan/Documents/Code/20220416/四月第三周对抗赛/P1 移动石头/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/alan/Documents/Code/20220416/四月第三周对抗赛/P1 移动石头/cmake-build-debug/CMakeFiles/P1_.dir

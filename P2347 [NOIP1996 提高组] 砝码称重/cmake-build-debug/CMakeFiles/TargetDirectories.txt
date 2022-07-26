@@ -1,0 +1,3 @@
+/Users/alan/Documents/P2347 [NOIP1996 提高组] 砝码称重/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/alan/Documents/P2347 [NOIP1996 提高组] 砝码称重/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/alan/Documents/P2347 [NOIP1996 提高组] 砝码称重/cmake-build-debug/CMakeFiles/P2347__NOIP1996___.dir

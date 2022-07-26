@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "P8432_WHOI_2",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "P8432_WHOI_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-P8432_WHOI_2-Debug-1cd298196e021fb94628.json",
+					"name" : "P8432_WHOI_2",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/alan/Documents/Code/P8432 \u300cWHOI-2\u300d\u307d\u304b\u307d\u304b\u306e\u661f/cmake-build-debug",
+		"source" : "/Users/alan/Documents/Code/P8432 \u300cWHOI-2\u300d\u307d\u304b\u307d\u304b\u306e\u661f"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

@@ -1,0 +1,3 @@
+/Users/alan/Documents/P6444 [COCI2010-2011#1] PROFESOR/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/alan/Documents/P6444 [COCI2010-2011#1] PROFESOR/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/alan/Documents/P6444 [COCI2010-2011#1] PROFESOR/cmake-build-debug/CMakeFiles/P6444__COCI2010_2011_1__PROFESOR.dir

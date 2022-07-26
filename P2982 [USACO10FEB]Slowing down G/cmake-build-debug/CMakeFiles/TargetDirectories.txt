@@ -1,0 +1,3 @@
+/Users/alan/Documents/Code/P2982 [USACO10FEB]Slowing down G/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/alan/Documents/Code/P2982 [USACO10FEB]Slowing down G/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/alan/Documents/Code/P2982 [USACO10FEB]Slowing down G/cmake-build-debug/CMakeFiles/P2982__USACO10FEB_Slowing_down_G.dir

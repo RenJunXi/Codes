@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "P1314__NOIP2011___",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "P1314__NOIP2011___::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-P1314__NOIP2011___-Debug-5c51343ffd1dce37242f.json",
+					"name" : "P1314__NOIP2011___",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/alan/Documents/Code/P1314 [NOIP2011 \u63d0\u9ad8\u7ec4] \u806a\u660e\u7684\u8d28\u76d1\u5458/cmake-build-debug",
+		"source" : "/Users/alan/Documents/Code/P1314 [NOIP2011 \u63d0\u9ad8\u7ec4] \u806a\u660e\u7684\u8d28\u76d1\u5458"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

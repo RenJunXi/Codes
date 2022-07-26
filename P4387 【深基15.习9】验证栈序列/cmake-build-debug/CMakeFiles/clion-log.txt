@@ -1,0 +1,4 @@
+"/Users/alan/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-1/212.5457.51/CLion.app/Contents/bin/cmake/mac/bin/cmake" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - Unix Makefiles" "/Users/alan/Documents/P4387 【深基15.习9】验证栈序列"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/alan/Documents/P4387 【深基15.习9】验证栈序列/cmake-build-debug

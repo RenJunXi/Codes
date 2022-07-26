@@ -1,0 +1,3 @@
+/Users/alan/Documents/Code/佳禾编程四月份第二周对抗赛/T1_猜国家/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/alan/Documents/Code/佳禾编程四月份第二周对抗赛/T1_猜国家/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/alan/Documents/Code/佳禾编程四月份第二周对抗赛/T1_猜国家/cmake-build-debug/CMakeFiles/T1_.dir
