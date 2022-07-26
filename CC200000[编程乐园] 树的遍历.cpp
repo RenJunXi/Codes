@@ -22,7 +22,7 @@ int main()
     {
         int a,b;
         cin>>a>>b;
-        vector[a].push_back(b);
+        trees[a].push_back(b);
     }
     dfs(1);
     flag=!flag;
