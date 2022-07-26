@@ -3,11 +3,15 @@
 using namespace std;
 vector<int> trees[101];
 int n;
+bool flag=false;
 void dfs(int number)
 {
-    cout<<number<<endl;
+    if(flag)
+        cout<<number<<endl;
     for(int i=1;i<=trees[number].size();i++)
         dfs(trees[number][i]);
+    if(!flag)
+        cout<<number<<endl;
 }
 int main()
 {
@@ -20,4 +24,8 @@ int main()
         cin>>a>>b;
         vector[a].push_back(b);
     }
+    dfs(1);
+    flag=!flag;
+    dfs(1);
+    return 0;
 }
