@@ -3,6 +3,12 @@
 using namespace std;
 vector<int> trees[101];
 int n;
+void dfs(int number)
+{
+    cout<<number<<endl;
+    for(int i=1;i<=trees[number].size();i++)
+        dfs(trees[number][i]);
+}
 int main()
 {
     ios::sync_with_stdio(false);
