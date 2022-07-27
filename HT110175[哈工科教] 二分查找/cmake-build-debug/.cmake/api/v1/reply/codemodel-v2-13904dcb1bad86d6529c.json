@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "HT110175___",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "HT110175___::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-HT110175___-Debug-2845407db14c6a43ccd2.json",
+					"name" : "HT110175___",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/alan/Documents/Code/HT110175[\u54c8\u5de5\u79d1\u6559] \u4e8c\u5206\u67e5\u627e/cmake-build-debug",
+		"source" : "/Users/alan/Documents/Code/HT110175[\u54c8\u5de5\u79d1\u6559] \u4e8c\u5206\u67e5\u627e"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
