@@ -4,15 +4,15 @@
 #include<cctype>
 #include<cstring>
 #define N 10005
-#define R register
 using namespace std;
 int n,rt,m,tot,p;
 int siz[N],ans[N],h[N],sum[N];
 struct node{
     int nex,to;
 } edge[N << 1];
-inline void add(R int u,R int v){
+inline void add(R int u,int v){
     edge[++tot].nex = h[u];
+
     edge[tot].to = v;
     h[u] = tot;
 }
@@ -34,7 +34,7 @@ int main(){
     cin >> n;
     cin >> rt;
     cin >> m;
-    for (R int i = 1,u,v;i <= n - 1;i++){
+    for (int i = 1,u,v;i <= n - 1;i++){
         cin >> u;
         cin >> v;
         add(u,v),add(v,u);
@@ -42,7 +42,7 @@ int main(){
     dfs(rt,0);
     while (m--){
         cin>>p;
-        printf("%d\n",ans[p]);
+        cout<<ans[p]<<endl;
     }
     return 0;
 }
