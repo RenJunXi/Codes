@@ -1,0 +1,3 @@
+/Users/alan/Documents/Code/P5002 专心OI - 找祖先/cmake-build-debug/CMakeFiles/P5002_OI___.dir
+/Users/alan/Documents/Code/P5002 专心OI - 找祖先/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/alan/Documents/Code/P5002 专心OI - 找祖先/cmake-build-debug/CMakeFiles/rebuild_cache.dir

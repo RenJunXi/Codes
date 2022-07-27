@@ -1,30 +1,25 @@
 #include <iostream>
-
 using namespace std;
 int N,M,S;
 struct tree{
-    int t,nex;
+    int t,next;
 } trees[500010 << 1];
 int head[500010],tot;
-
 void add(int x,int y){
     trees[++tot].t = y;
-    trees[tot].nex = head[x];
+    trees[tot].next = head[x];
     head[x] = tot;
 }
-
 int depth[500001],fa[500001][22],lg[500001];
-
 void run(int now,int father){
     fa[now][0] = father;
     depth[now] = depth[father] + 1;
     for (int i = 1;i <= lg[depth[now]];++i)
         fa[now][i] = fa[fa[now][i - 1]][i - 1];
-    for (int i = head[now];i;i = trees[i].nex)
+    for (int i = head[now];i;i = trees[i].next)
         if (trees[i].t != father)
             run(trees[i].t,now);
 }
-
 int LCA(int x,int y){
     if (depth[x] < depth[y]) swap(x,y);
     while (depth[x] > depth[y])
@@ -35,7 +30,6 @@ int LCA(int x,int y){
             x = fa[x][k],y = fa[y][k];
     return fa[x][0];
 }
-
 int main(){
     ios::sync_with_stdio(false);
     cin.tie(nullptr);
