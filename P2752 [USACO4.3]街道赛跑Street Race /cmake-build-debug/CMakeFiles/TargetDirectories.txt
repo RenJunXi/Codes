@@ -1,0 +1,3 @@
+/Users/alan/Documents/Code/P2752 [USACO4.3]街道赛跑Street Race /cmake-build-debug/CMakeFiles/P2752__USACO4_3_Street_Race_.dir
+/Users/alan/Documents/Code/P2752 [USACO4.3]街道赛跑Street Race /cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/alan/Documents/Code/P2752 [USACO4.3]街道赛跑Street Race /cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "P2752__USACO4_3_Street_Race_",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "P2752__USACO4_3_Street_Race_::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-P2752__USACO4_3_Street_Race_-Debug-9d792c2ef9510a2a88d7.json",
+					"name" : "P2752__USACO4_3_Street_Race_",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/alan/Documents/Code/P2752 [USACO4.3]\u8857\u9053\u8d5b\u8dd1Street Race /cmake-build-debug",
+		"source" : "/Users/alan/Documents/Code/P2752 [USACO4.3]\u8857\u9053\u8d5b\u8dd1Street Race "
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
