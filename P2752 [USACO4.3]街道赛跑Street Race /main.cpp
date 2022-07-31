@@ -1,56 +1,101 @@
-#include <iostream>
-#include <vector>
-#include <queue>
+#include<cstdio>
+#include<cstring>
 using namespace std;
-vector<int> graph[101];
-queue<int> _queue;
-bool have_visited[101];
-bool flag[101];
-int id;
-void run(int i){
-    have_visited[i] = true;
-    for (int j = 1;j <= graph[i].size();j++)
-        if (graph[i][j] == 1 and !have_visited[j])
-            run(i);
-}
-void must_through(){
-    ;
-}
-void division(){
-    memset(flag,0,sizeof flag);
-    while (!_queue.empty()){
-        _queue.pop();
-        have_visited
-        for (int k = 0;k < m teml.size();
-        k++){
-            int ch = mp[temp][k];
-            1£(vs
-            ch == 1
-            return 0;
-            if (flag[ch] == 0){
-                r++;
-                q[r] = ch;
-                flag[ch] = 1;
+struct node{
+    int len,next[60];
+    node(){
+        len = 0;
+        memset(next,0,sizeof(next));
+    }
+} ss[200];
+bool bss,bs;
+int bk[60],n,sk,a[60],len,b[60],lenb;
+void dfs(int k){
+    if (k == n){
+        bs = true;
+        return;
+    }
+    else{
+        for (int i = 1;i <= ss[k].len;i++){
+            if (bk[ss[k].next[i]] == 0){
+                bk[ss[k].next[i]] = 1;
+                dfs(ss[k].next[i]);
+                if (bs == true)
+                    return;
+                bk[ss[k].next[i]] = 0;
             }
         }
     }
-    void input(){
-        int k;
-        for (cin >> k;k != -1;cin >> k){
-            while (k >= 0){
-                graph[id].push_back(k);
-                cin >> k;
+}
+void dfs1(int k){
+    bk[k] = 1;
+    if (k == sk){
+        bss = true;
+        return;
+    }
+    else{
+        for (int i = 1;i <= ss[k].len;i++){
+            if (bk[ss[k].next[i]] == 0){
+                dfs1(ss[k].next[i]);
+                if (bss == true)return;
             }
-            if (k == -2)
-                id++;
         }
     }
-    int main(){
-        ios::sync_with_stdio(false);
-        cin.tie(nullptr);
-        cout.tie(nullptr);
-        input();
-        must_through();
-        division();
-        return 0;
+}
+void dfs2(int k){
+    if (bss == false)return;
+    if (k == n)return;
+    else{
+        for (int i = 1;i <= ss[k].len;i++){
+            if (bk[ss[k].next[i]] == 0){
+                bk[ss[k].next[i]] = 2;
+                dfs2(ss[k].next[i]);
+                bk[ss[k].next[i]] = 0;
+            }
+            else if (bk[ss[k].next[i]] == 1){
+                bss = false;
+                return;
+            }
+        }
     }
+}
+int main(){
+    int x,y = 0;
+    while (scanf("%d",&x) != EOF){
+        if (x == -1)break;
+        if (x == -2)y++;
+        else ss[y].next[++ss[y].len] = x;
+    }
+    n = y - 1;
+    for (int i = 1;i < n;i++){
+        bs = false;
+        memset(bk,0,sizeof(bk));
+        bk[i] = 1;
+        dfs(0);
+        if (bs == false)a[++len] = i;
+    }
+    if (len != 0){
+        printf("%d ",len);
+        for (int i = 1;i < len;i++)printf("%d ",a[i]);
+        printf("%d\n",a[len]);
+    }
+    else printf("%d\n",len);
+    for (int i = 1;i <= len;i++){
+        memset(bk,0,sizeof(bk));
+        bss = false;
+        sk = a[i];
+        bk[a[i]] = 2;
+        dfs1(0);
+        bss = true;
+        dfs2(sk);
+        if (bss == true)b[++lenb] = a[i];
+    }
+    if (lenb != 0){
+        printf("%d ",lenb);
+        for (int i = 1;i < lenb;i++)
+            printf("%d ",b[i]);
+        printf("%d\n",b[lenb]);
+    }
+    else printf("%d\n",lenb);
+    return 0;
+}
