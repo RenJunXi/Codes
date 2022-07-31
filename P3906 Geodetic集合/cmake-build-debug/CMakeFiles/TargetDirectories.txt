@@ -1,0 +1,3 @@
+/Users/alan/Documents/Code/P3906 Geodetic集合/cmake-build-debug/CMakeFiles/P3906_Geodetic.dir
+/Users/alan/Documents/Code/P3906 Geodetic集合/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/alan/Documents/Code/P3906 Geodetic集合/cmake-build-debug/CMakeFiles/rebuild_cache.dir
