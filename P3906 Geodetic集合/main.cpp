@@ -1,3 +1,4 @@
+#include <algorithm>
 #include <iostream>
 #include <vector>
 #include <queue>
@@ -26,18 +27,16 @@ void bfs(int x,int y){
         }
     }
 }
-void print_ans(queue<int> & _queue)
-{
-    int len=_queue.size();
-    for(int i=1;!_queue.empty();i++)
-    {
-        ans[i]=_queue.front();
+void print_ans(queue<int> &_queue){
+    int len = _queue.size();
+    for (int i = 1;!_queue.empty();i++){
+        ans[i] = _queue.front();
         _queue.pop();
     }
-    sort(ans+1,ans+len+1);
-    for(int i=1;i<=len;i++)
-        cout<<ans[i]<<" ";
-    cout<<endl;
+    sort(ans + 1,ans + len + 1);
+    for (int i = 1;i <= len;i++)
+        cout << ans[i] << " ";
+    cout << endl;
 }
 void getpath(int x,int y){
     memset(flag,0,sizeof flag);
@@ -48,13 +47,11 @@ void getpath(int x,int y){
         int temp = _queue.front();
         if (temp == y)
             break;
-        for(int i=0;i<graph[temp].size();i++)
-        {
-            int ch=graph[temp][i];
-            if(d[temp]==d[ch]+1 and !flag[ch])
-            {
+        for (int i = 0;i < graph[temp].size();i++){
+            int ch = graph[temp][i];
+            if (d[temp] == d[ch] + 1 and !flag[ch]){
                 _queue.push(ch);
-                flag[ch]=!flag[ch];
+                flag[ch] = !flag[ch];
             }
         }
     }
