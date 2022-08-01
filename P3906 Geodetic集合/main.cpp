@@ -4,8 +4,8 @@
 #include <queue>
 #include <cstring>
 using namespace std;
-vector<int> graph[101];
-int d[101],n,m,k,ans[101];
+vector<int> graph[101],ans;
+int d[101],n,m,k;
 bool flag[101];
 void bfs(int x,int y){
     memset(d,0x3f,sizeof d);
@@ -15,6 +15,7 @@ void bfs(int x,int y){
     flag[x] = true;
     while (!_queue.empty()){
         int temp = _queue.front();
+        _queue.pop();
         if (temp == y)
             break;
         for (int i = 0;i < graph[temp].size();i++){
@@ -45,6 +46,8 @@ void getpath(int x,int y){
     flag[x] = 1;
     while (!_queue.empty()){
         int temp = _queue.front();
+
+        _queue.pop();
         if (temp == y)
             break;
         for (int i = 0;i < graph[temp].size();i++){
