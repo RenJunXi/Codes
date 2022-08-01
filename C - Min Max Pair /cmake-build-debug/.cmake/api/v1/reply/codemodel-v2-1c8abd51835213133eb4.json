@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "C___Min_Max_Pair_",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "C___Min_Max_Pair_::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-C___Min_Max_Pair_-Debug-b18ccd60809cf770973c.json",
+					"name" : "C___Min_Max_Pair_",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/alan/Documents/Code/C - Min Max Pair /cmake-build-debug",
+		"source" : "/Users/alan/Documents/Code/C - Min Max Pair "
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

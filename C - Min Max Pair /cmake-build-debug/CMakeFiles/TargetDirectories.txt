@@ -1,0 +1,3 @@
+/Users/alan/Documents/Code/C - Min Max Pair /cmake-build-debug/CMakeFiles/C___Min_Max_Pair_.dir
+/Users/alan/Documents/Code/C - Min Max Pair /cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/alan/Documents/Code/C - Min Max Pair /cmake-build-debug/CMakeFiles/rebuild_cache.dir
