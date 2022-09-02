@@ -1,0 +1,3 @@
+/Users/alan/Documents/Code/CSP J Test1 区间染色 Bread 疯狂的馒头/cmake-build-debug/CMakeFiles/CSP_J_Test1__Bread_.dir
+/Users/alan/Documents/Code/CSP J Test1 区间染色 Bread 疯狂的馒头/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/alan/Documents/Code/CSP J Test1 区间染色 Bread 疯狂的馒头/cmake-build-debug/CMakeFiles/rebuild_cache.dir

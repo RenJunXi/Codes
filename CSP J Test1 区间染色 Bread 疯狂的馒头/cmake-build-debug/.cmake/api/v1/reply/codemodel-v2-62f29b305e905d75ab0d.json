@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "CSP_J_Test1__Bread_",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "CSP_J_Test1__Bread_::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CSP_J_Test1__Bread_-Debug-680d5d7718a0bb00a547.json",
+					"name" : "CSP_J_Test1__Bread_",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/alan/Documents/Code/CSP J Test1 \u533a\u95f4\u67d3\u8272 Bread \u75af\u72c2\u7684\u9992\u5934/cmake-build-debug",
+		"source" : "/Users/alan/Documents/Code/CSP J Test1 \u533a\u95f4\u67d3\u8272 Bread \u75af\u72c2\u7684\u9992\u5934"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
