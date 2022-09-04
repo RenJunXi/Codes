@@ -3,7 +3,7 @@ using namespace std;
 int n,m,input[10009],ans[10009],flag[10009],used[10009];
 inline void print(){
     for (int i = 1;i <= n;i++)
-        cout << ans[i] << endl;
+        cout << ans[i] << " ";
 }
 void search(int i){
     if (i == n + 1){
