@@ -1,0 +1,3 @@
+/Users/alan/Documents/Code/P1088 [NOIP2004 普及组] 火星人/cmake-build-debug/CMakeFiles/P1088__NOIP2004___.dir
+/Users/alan/Documents/Code/P1088 [NOIP2004 普及组] 火星人/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/alan/Documents/Code/P1088 [NOIP2004 普及组] 火星人/cmake-build-debug/CMakeFiles/rebuild_cache.dir

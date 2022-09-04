@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "P1088__NOIP2004___",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "P1088__NOIP2004___::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-P1088__NOIP2004___-Debug-773ba1178ad34ae64df3.json",
+					"name" : "P1088__NOIP2004___",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/alan/Documents/Code/P1088 [NOIP2004 \u666e\u53ca\u7ec4] \u706b\u661f\u4eba/cmake-build-debug",
+		"source" : "/Users/alan/Documents/Code/P1088 [NOIP2004 \u666e\u53ca\u7ec4] \u706b\u661f\u4eba"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

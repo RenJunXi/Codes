@@ -9,8 +9,8 @@ int find(int x){
     return f[x];
 }
 int main(){
-    freopen("bread.in","r",stdin);
-    freopen("bread.out","w",stdout);
+    //freopen("bread.in","r",stdin);
+    //freopen("bread.out","w",stdout);
     ios::sync_with_stdio(false);
     cin.tie(nullptr);cout.tie(nullptr);
     for (int i = 1;i <= 100001;i++)
@@ -28,6 +28,6 @@ int main(){
         m--;
     }
     for (int i = 1;i <= n;i++)
-        cout << ans[i];
+        cout << ans[i] <<endl;
     return 0;
 }
